@@ -211,7 +211,22 @@ CAPM = Rf + portfolio_beta * (Rm - Rf)
 #### Portafolio Mínima Varianza (PMV)
 | Concepto     | Valor    |
 | ------------ | --------:|
-| Rendimiento  |          |
-| Riesgo       |          |
-| I. Sharpe    |          |
-| Beta         |          |
+| Rendimiento  |  23.00%  |
+| Riesgo       |  20.95%  |
+| I. Sharpe    |   1.09   |
+| Beta         |   0.86   |
+
+- Estructura del PMV
+
+| Acción       |   Peso   |
+| ------------ | --------:|
+| MSFT         |  2.42%   |
+| IMB          |  3.05%   |
+| MCD          |  16.22%  |
+| V            |  0.00%   |
+| AXP          |  8.99%   |
+| HD           |  0.00%   |
+| WMT          |  0.00%   |
+| CAT          |  34.58%  |
+| KO           |  0.00%   |
+| AAPL         |  34.74%  |
